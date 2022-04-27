@@ -4,7 +4,7 @@
 
 **edilsonsilva/edilsonsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47uolsswrd4o10ewtnzif3n4dziv4g15cr9ibarm7b&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
 Algumas tecnologias que são desenvolvidas aqui:
