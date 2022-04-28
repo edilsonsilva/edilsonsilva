@@ -4,7 +4,7 @@
 
 **edilsonsilva/edilsonsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47uolsswrd4o10ewtnzif3n4dziv4g15cr9ibarm7b&rid=giphy.gif&ct=g"/>
+  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="300" height="200"/>
 </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
